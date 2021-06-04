@@ -2,17 +2,7 @@ WebPageLink – https://diverse.unm.edu/about/mission.html
 
  
 
-[Skip to main content](#main)Toggle navigation* [UNM A-Z](https://directory.unm.edu/departments/ "UNM A to Z")
-* [myUNM](https://my.unm.edu "myUNM")
-* [Directory](https://directory.unm.edu "Directory")
-* 
-[The University of New Mexico](https://www.unm.edu)  * [UNM A-Z](https://directory.unm.edu/departments/ "UNM A to Z")
-* [myUNM](https://my.unm.edu "myUNM")
-* [Directory](https://directory.unm.edu "Directory")
-* [Help](#) 
-	+ [StudentInfo](https://studentinfo.unm.edu "StudentInfo")
-	+ [FastInfo](https://fastinfo.unm.edu "FastInfo")
-[Division for Equity and Inclusion
+[Skip to main content](#main)[Division for Equity and Inclusion
 =================================](http://diverse.unm.edu)* [UNM](https://www.unm.edu)
 * [Home](../index.html)
 * [About](index.html)
@@ -83,17 +73,7 @@ WebPageLink – https://diverse.unm.edu/
 
  
 
-[Skip to main content](#main)Toggle navigation* [UNM A-Z](https://directory.unm.edu/departments/ "UNM A to Z")
-* [myUNM](https://my.unm.edu "myUNM")
-* [Directory](https://directory.unm.edu "Directory")
-* 
-[The University of New Mexico](https://www.unm.edu)  * [UNM A-Z](https://directory.unm.edu/departments/ "UNM A to Z")
-* [myUNM](https://my.unm.edu "myUNM")
-* [Directory](https://directory.unm.edu "Directory")
-* [Help](#) 
-	+ [StudentInfo](https://studentinfo.unm.edu "StudentInfo")
-	+ [FastInfo](https://fastinfo.unm.edu "FastInfo")
-[Division for Equity and Inclusion
+[Skip to main content](#main)[Division for Equity and Inclusion
 =================================](http://diverse.unm.edu)![Students in the Sub for Lobo Day](assets/img/lobo-day.jpg)Welcome to the University of New Mexico’s Division for Equity and Inclusion
 
 Indigenous Peoples' Land and Territory Acknowledgement

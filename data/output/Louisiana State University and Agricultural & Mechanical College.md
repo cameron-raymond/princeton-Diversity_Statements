@@ -9,43 +9,6 @@ tag manager container
 
 
 
-[Skip to main content](#maincontent)Toggle navigation
-
-begin sitewide navigation
-* [LSU.edu](/index.php "Homepage")
-* [myLSU](https://mylsu.apps.lsu.edu/c/portal/login "Login to myLSU")
-* [Employee Hub](/employeehub/index.php "Resources for Faculty & Staff")
-* [Directories](/a-z.php "A to Z Index")
-
-
-* [Give](http://fierceforthefuturecampaign.org/ "Opportunities to Give")
-* [Visit](/visit/index.php "Visit Campus")
-* [Apply](/admission/apply.php "Applications")
-* [Employment](/hrm/job_seekers/index.php "Job Opportunities")
-* [Contact Us](/about/requestinfo.php "Contact Information")
-
-
-
-
-
-
-Search lsu.edu
-
-
-Go!
-
-
-
-
-
-
-[LSU](/index.php "Homepage")  [Office of Academic Affairs](/academicaffairs/index.php)
-[Office of Diversity, Equity & Inclusion](/diversity/index.php)
-
-
-
-
-
 Top
 
 Mission
@@ -192,43 +155,6 @@ WebPageLink – https://www.lsu.edu/diversity/about_us/mission_vision.php
 
 tag manager container
 
-
-
-
-
-
-[Skip to main content](#maincontent)Toggle navigation
-
-begin sitewide navigation
-* [LSU.edu](/index.php "Homepage")
-* [myLSU](https://mylsu.apps.lsu.edu/c/portal/login "Login to myLSU")
-* [Employee Hub](/employeehub/index.php "Resources for Faculty & Staff")
-* [Directories](/a-z.php "A to Z Index")
-
-
-* [Give](http://fierceforthefuturecampaign.org/ "Opportunities to Give")
-* [Visit](/visit/index.php "Visit Campus")
-* [Apply](/admission/apply.php "Applications")
-* [Employment](/hrm/job_seekers/index.php "Job Opportunities")
-* [Contact Us](/about/requestinfo.php "Contact Information")
-
-
-
-
-
-
-Search lsu.edu
-
-
-Go!
-
-
-
-
-
-
-[LSU](/index.php "Homepage")  [Office of Academic Affairs](/academicaffairs/index.php)
-[Office of Diversity, Equity & Inclusion](/diversity/index.php)
 
 
 

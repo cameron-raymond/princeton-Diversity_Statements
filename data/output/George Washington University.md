@@ -10,35 +10,6 @@ WebPageLink – https://diversity.gwu.edu/vision-and-mission
 
 
 
-[Report a bias-related act](https://diversity.gwu.edu/how-report-bias-related-act "Report a bias-related act")
-
-
-
-
-
-![Search](/sites/all/themes/gwu_marketing/images/icons/search.png "Search")
-
-
-
-
-
-Enter the terms you wish to search for. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -72,11 +43,6 @@ The Office for Diversity, Equity, and Community Engagement supports GW’s strat
 
 
 
-* [Our History](/our-history)
-* [Vision and Mission](/vision-and-mission)
-* [Diversity and Inclusion Defined](/diversity-and-inclusion-defined)
-* [ODECE Statements](/odece-statements)
-* [Meet Our Team](/meet-our-team-0)
 
 
 
@@ -87,43 +53,6 @@ The Office for Diversity, Equity, and Community Engagement supports GW’s strat
 
 
 
-
-
-
-
-
-
-OFFICE FOR DIVERSITY, EQUITY, AND COMMUNITY ENGAGEMENT
-
-
-OFFICE OF THE PROVOST
-
-
- 
-
-Building YY  
-
-812 20th Street NW  
-
-Washington, DC 20052
-
-
- 
-
-Phone: 202-994-7434  
-
-Fax: 202-994-0475
-
-
-[[email protected]](/cdn-cgi/l/email-protection#99fdf0effcebeafcd9feeeecb7fcfdec)
-
-
- 
-
-[Give now](http://go.gwu.edu/supportdiversity)
-
-
- 
 
 
 
@@ -146,35 +75,6 @@ WebPageLink – https://diversity.gwu.edu/gw-statement-diversity-and-inclusion-0
 
 
 [Skip to main content](#main-content)
-
-
-
-
-
-[Report a bias-related act](https://diversity.gwu.edu/how-report-bias-related-act "Report a bias-related act")
-
-
-
-
-
-![Search](/sites/all/themes/gwu_marketing/images/icons/search.png "Search")
-
-
-
-
-
-Enter the terms you wish to search for. 
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -246,12 +146,6 @@ The university holds its members accountable for sustaining an academic, work an
 
 
 
-* [Our History](/our-history)
-* [Vision and Mission](/vision-and-mission)
-* [Diversity and Inclusion Defined](/diversity-and-inclusion-defined)
-	+ [GW Statement on Diversity and Inclusion](/gw-statement-diversity-and-inclusion-0)
-* [ODECE Statements](/odece-statements)
-* [Meet Our Team](/meet-our-team-0)
 
 
 
@@ -262,43 +156,6 @@ The university holds its members accountable for sustaining an academic, work an
 
 
 
-
-
-
-
-
-
-OFFICE FOR DIVERSITY, EQUITY, AND COMMUNITY ENGAGEMENT
-
-
-OFFICE OF THE PROVOST
-
-
- 
-
-Building YY  
-
-812 20th Street NW  
-
-Washington, DC 20052
-
-
- 
-
-Phone: 202-994-7434  
-
-Fax: 202-994-0475
-
-
-[[email protected]](/cdn-cgi/l/email-protection#6e0a07180b1c1d0b2e09191b400b0a1b)
-
-
- 
-
-[Give now](http://go.gwu.edu/supportdiversity)
-
-
- 
 
 
 

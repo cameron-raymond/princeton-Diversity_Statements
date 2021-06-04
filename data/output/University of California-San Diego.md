@@ -257,64 +257,6 @@ WebPageLink – https://www.sandiego.edu/inclusion/diversity-statement/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-
-
-Skip popular search navigation
-
-### Popular USD Searches:
-
-
-* [academic calendar](//www.sandiego.edu/academic-calendars/)
-* [majors](//www.sandiego.edu/academics/majors-and-minors/)
-* [jobs](//www.sandiego.edu/jobs/)
-* [transcripts](//www.sandiego.edu/one-stop/student-records/transcripts.php)
-* [tuition](//www.sandiego.edu/admissions/tuition-and-financial-aid.php)
-* [athletics](http://www.usdtoreros.com/)
-* [housing](//www.sandiego.edu/residentiallife/)
-* [study abroad](//www.sandiego.edu/international/study-abroad/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [Home](//www.sandiego.edu/inclusion/) > 
  
  

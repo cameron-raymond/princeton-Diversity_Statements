@@ -232,17 +232,6 @@ Close Emergency Notification
 
 
 
-
-
-
-
-
-![clarkforwrd pathways to inclusive excellence log](https://s28151.pcdn.co/offices/diversity-inclusion/wp-content/themes/clarku/assets/img/placeholder.png)
-
-
-
-
-
 Clark is committed to ensuring that our classrooms, offices and common spaces are welcoming to all and that everyone who comes to campus feels respected and valued.
 
 

@@ -48,35 +48,6 @@ Search
 
 
 
-* [Home](/commcms/cdo/index.php)
-* [About Us](/commcms/cdo/about/index.php)
-	+ [Contact Us](/commcms/cdo/about/contact.php)
-	+ [People](/commcms/cdo/about/people.php)
-	+ [Work With Us](/commcms/cdo/about/jobs.php)
-* [Resources](/commcms/cdo/resources/index.php)
-	+ [Campus Programs](/commcms/cdo/resources/programs.php)
-	+ [Diversity Centers](/commcms/cdo/resources/centers.php)
-* [Diversity Plan](/commcms/cdo/plan/index.php)
-	+ [Read the Plan](/commcms/cdo/plan/plan.php)
-	+ [Implementation Work Plan](/commcms/cdo/plan/working_plan.php)
-	+ [FAQ](/commcms/cdo/plan/faq.php)
-	+ [Feedback](/commcms/cdo/plan/feedback.php)
-	+ [Videos](/commcms/cdo/video.php)
-	+ [Expenditures](/commcms/cdo/plan/funding.php)
-* [Initiatives](/commcms/cdo/cultural-competency/index.php)
-	+ [Town Hall Meetings](/commcms/cdo/news/social-justice-town-hall.php)
-	+ [Cultural Competency](/commcms/cdo/cultural-competency/index.php)
-	+ [PRODiG](/commcms/cdo/news/prodig.php)
-* [Events](/commcms/cdo/events.php)
-* [News](/commcms/cdo/news/index.php)
-	+ [Videos](/commcms/cdo/video.php)
-* [Grants](#)
-	+ [Presidential Minigrants](/commcms/pres/minigrants/index.php)
-
-
-
-
-
 
 
 
@@ -206,7 +177,7 @@ Latest News
 
 
 
-[SBU Community Joins Together for Anti-AAPI Racism Forum **6/2/21**](https://news.stonybrook.edu/university/sbu-community-joins-together-for-anti-aapi-racism-forum/)[Graduate Student Finds Challenges, Peace of Mind **5/27/21**](https://news.stonybrook.edu/university/graduate-student-finds-challenges-peace-of-mind/)[Five SBU Students Make Inaugural Class of Pre-Med Opportunity Program **5/18/21**](https://news.stonybrook.edu/homespotlight/five-sbu-students-make-inaugural-class-of-pre-med-opportunity-program/)[Celebrating Cultural Diversity and Supporting Students During Ramadan **5/4/21**](https://news.stonybrook.edu/homespotlight/celebrating-cultural-diversity-and-supporting-students-during-ramadan/)[Diversity Tree Planted as Part of Earth Day Celebration **4/29/21**](https://news.stonybrook.edu/university/diversity-tree-planted-as-part-of-earth-day-celebration/)[SBU Makes Forbes List of Best Employers for Diversity **4/26/21**](https://news.stonybrook.edu/university/sbu-makes-forbes-list-of-best-employers-for-diversity/)[Presidential Lecture and Virtual Conversation with Tarana Burke, April 21 **4/19/21**](https://news.stonybrook.edu/community-outreach/presidential-lecture-and-virtual-conversation-with-tarana-burke-april-21/)[Responding as a Community: A Message from President McInnis and Provost Goldbart **4/16/21**](https://news.stonybrook.edu/university/responding-as-a-community-a-message-from-president-mcinnis-and-provost-goldbart/)
+[SB Medicine Administering First LGBTQ+ Health Needs Survey on Long Island **6/4/21**](https://news.stonybrook.edu/university/sb-medicine-administering-first-lgbtq-health-needs-survey-on-long-island/)[SBU Community Joins Together for Anti-AAPI Racism Forum **6/2/21**](https://news.stonybrook.edu/university/sbu-community-joins-together-for-anti-aapi-racism-forum/)[Graduate Student Finds Challenges, Peace of Mind **5/27/21**](https://news.stonybrook.edu/university/graduate-student-finds-challenges-peace-of-mind/)[Five SBU Students Make Inaugural Class of Pre-Med Opportunity Program **5/18/21**](https://news.stonybrook.edu/homespotlight/five-sbu-students-make-inaugural-class-of-pre-med-opportunity-program/)[Celebrating Cultural Diversity and Supporting Students During Ramadan **5/4/21**](https://news.stonybrook.edu/homespotlight/celebrating-cultural-diversity-and-supporting-students-during-ramadan/)[Diversity Tree Planted as Part of Earth Day Celebration **4/29/21**](https://news.stonybrook.edu/university/diversity-tree-planted-as-part-of-earth-day-celebration/)[SBU Makes Forbes List of Best Employers for Diversity **4/26/21**](https://news.stonybrook.edu/university/sbu-makes-forbes-list-of-best-employers-for-diversity/)[Presidential Lecture and Virtual Conversation with Tarana Burke, April 21 **4/19/21**](https://news.stonybrook.edu/community-outreach/presidential-lecture-and-virtual-conversation-with-tarana-burke-april-21/)
  
 
 
@@ -456,23 +427,6 @@ Search
 
 
 
-
-
-* [Home](/commcms/diversity/)
-* [Mission and Vision](/commcms/diversity/mission.php)
-* [Leadership](/commcms/diversity/leadership.php)
-* [Advisory Group](/commcms/diversity/advisory.php)
-* [Programs](/commcms/diversity/programs/index.php)
-	+ [K-12](/commcms/diversity/programs/k12.html)
-	+ [Undergraduate](/commcms/diversity/programs/ug.html)
-	+ [Graduate](/commcms/diversity/programs/grad.html)
-	+ [Faculty/Postdocs](/commcms/diversity/programs/faculty.html)
-	+ [Underrepresented students](/commcms/diversity/programs/ur.html)
-	+ [STEM](/commcms/diversity/programs/stem.html)
-* [Contact Us](/commcms/diversity/contact.php)
-
-
-
 [Home](/commcms/diversity/)
 
 [Mission and Vision](/commcms/diversity/mission)
@@ -512,14 +466,6 @@ Stony Brook University has been very successful in creating communities, aided b
  our aims, our University will expand its scholarship in diversity and inclusion, use
  its lessons learned from over three decades of diversity work, and continue to explore
  promising national models.
-
-
-
-
-
-
-
-
 
 
 

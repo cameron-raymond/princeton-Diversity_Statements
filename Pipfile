@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+jupyterlab = "*"
+beautifulsoup4 = "*"
+pandas = "*"
+requests = "*"
+ipykernel = "*"
+selenium = "*"
+markdownify = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

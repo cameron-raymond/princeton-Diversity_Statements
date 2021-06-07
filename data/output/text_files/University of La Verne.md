@@ -3,7 +3,6 @@ WebPageLink – https://laverne.edu/diversity/
  
 
 
-
 [Skip to main content](#main-content-start)
 Bypass the primary and secondary navigation and continue reading the main body of the page
 
@@ -80,9 +79,6 @@ Related Links
  
 
 
-
-
- 
 
 
 
@@ -95,7 +91,6 @@ WebPageLink – https://laverne.edu/diversity/
  
 
 
-
 [Skip to main content](#main-content-start)
 Bypass the primary and secondary navigation and continue reading the main body of the page
 
@@ -172,9 +167,6 @@ Related Links
  
 
 
-
-
- 
 
 
 

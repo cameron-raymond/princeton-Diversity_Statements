@@ -1,13 +1,8 @@
 WebPageLink – https://diverse.unm.edu/about/mission.html 
 
  
-
-[Skip to main content](#main)[Division for Equity and Inclusion
-=================================](http://diverse.unm.edu)* [UNM](https://www.unm.edu)
-* [Home](../index.html)
-* [About](index.html)
-* Mission, Vision, Diversity Values Statement
-Mission, Vision, Diversity Values Statement
+[Division for Equity and Inclusion
+=================================](http://diverse.unm.edu)Mission, Vision, Diversity Values Statement
 ===========================================
 
 Mission Statement
@@ -72,8 +67,7 @@ more at [social.unm.edu](https://social.unm.edu "UNM Social Media Directory & In
 WebPageLink – https://diverse.unm.edu/ 
 
  
-
-[Skip to main content](#main)[Division for Equity and Inclusion
+[Division for Equity and Inclusion
 =================================](http://diverse.unm.edu)![Students in the Sub for Lobo Day](assets/img/lobo-day.jpg)Welcome to the University of New Mexico’s Division for Equity and Inclusion
 
 Indigenous Peoples' Land and Territory Acknowledgement

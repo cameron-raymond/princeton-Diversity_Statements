@@ -178,10 +178,6 @@ We provide students with secular counseling and educational programs relating to
 
 
 
-
-
-
-
 SPACES
 ------
 
@@ -205,9 +201,9 @@ Upcoming Events
 
 
 
-June 2  
+Ongoing  
 
-[Post-COVID Social Justice Community](https://tockify.com/ucsdwc/detail/115/1622678400000)
+[Illuminations Grant Art Gallery](http://tinyurl.com/CCCillumination)
 
 
 June 4  
@@ -230,9 +226,6 @@ June 4
 
 
 
-
-
-![](https://dc.ads.linkedin.com/collect/?pid=46649&fmt=gif)
 
  
 ** **
@@ -257,10 +250,62 @@ WebPageLink – https://www.sandiego.edu/inclusion/diversity-statement/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+### Popular USD Searches:
+
+
+* [academic calendar](//www.sandiego.edu/academic-calendars/)
+* [majors](//www.sandiego.edu/academics/majors-and-minors/)
+* [jobs](//www.sandiego.edu/jobs/)
+* [transcripts](//www.sandiego.edu/one-stop/student-records/transcripts.php)
+* [tuition](//www.sandiego.edu/admissions/tuition-and-financial-aid.php)
+* [athletics](http://www.usdtoreros.com/)
+* [housing](//www.sandiego.edu/residentiallife/)
+* [study abroad](//www.sandiego.edu/international/study-abroad/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Home](//www.sandiego.edu/inclusion/) > 
- 
- 
- 
  Diversity at USD
 
 
@@ -360,42 +405,6 @@ Institutional Outcomes
 
 
 
-* [Definitions](#accordion-panel1)
-**DIVERSITY** at the University of San Diego results from the intentional gathering of varying perspectives that foster institutional excellence and genuine community relationships. Valuing diversity means recognizing and honoring the strengths each person brings to our community as we collectively confront humanity’s urgent challenges. In teaching and learning, DIVERSITY refers to difference, understood as an historically and socially constructed set of value assumptions about what/who matters that figures essentially in power dynamics from the local to the global. Some differences have been made to matter more than others.
-
-
-**INCLUSION** describes the institutional processes that incorporate and promote diversity. Inclusion refers how institutional practices, policies, and habits transform to include diverse people and perspectives, especially those from underrepresented and underserved groups. The ongoing and adaptive practice of inclusion impacts campus culture and climate.
-
-
-**SOCIAL JUSTICE** operates centrally in Catholic social teaching. Social justice entails identifying and contesting processes in which power and privilege utilize diversity for inequitable outcomes along intersecting lines—race, class, gender, sexual orientation, religion, ability, and more— that inhibit democratic empowerment, civil and human rights.
-
-
-**INCLUSIVE EXCELLENCE** is synonymous with institutional excellence; high-quality education relies on engagement and inclusion with diverse perspectives. Inclusive excellence means commitment to diversity and equity in all of their forms, including a diversity of ideas, of people, and the opportunity to learn from and with diverse peers.
-
-
-**EQUITY** is the process of modifying practices that have intentionally or unintentionally disadvantaged a particular group. The outcome of equity is that all people have an equal opportunity to succeed in reaching equality in outcomes.
-
-
-* [Institutional Outcomes for Diversity and Inclusion](#accordion-panel2)
-**Cultural Self-Awareness**
-
-
-
-	+ In relating to others, works to identify one’s own unexamined cultural attitudes, and behaviors, reflected in one’s values, spirituality, and faith traditions.
-	+ Recognizes one’s own constellation of identities and their meanings. Is exposed to people who hold different identities than one’s own and values intrinsically these differences.
-**Engaging with Difference**
-
-
-
-	+ Engages with, supports, and validates diverse points of view
-	+ Communicate ideas, perspectives, and values clearly and persuasively while listening openly to others
-	+ Interact effectively with others through the willingness to explore the challenge of difference to reap the benefits of working competently in cross-cultural situations.
-**Community Engagement**
-
-
-
-	+ Create an inclusive community that fosters an understanding and respect for diversity among our students, faculty, staff, and administrators.
-	+ Encourages connections between civic and academic communities to promote engagement and action to achieve common goals.
 
 
 
@@ -431,7 +440,6 @@ Contact Information
 
 
 [View Directory](/inclusion/about/staff/)
-
 
 
 

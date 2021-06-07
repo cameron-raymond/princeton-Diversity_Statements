@@ -3,19 +3,9 @@ WebPageLink – https://www.esf.edu/ide/
      [skip to main content](#crumb)
 
 
-[![e s f home link - e s f college of environmental science and forestry](/default/images/wordmarkplainfull5.png)](/)
 [![e s f home link - e s f college of environmental science and forestry](/default/images/wordmarkplain.png)](/)
 
 
-
-
-[SOCIAL](/social/)
-
-[LOG IN](/computing/)
-
-[APPLY](/admission.htm/)
-
-[GIVE](https://www.esf.edu/donate/) 
 
 
  
@@ -156,65 +146,6 @@ Statement used with permission: UW-Madison   ESF fulfills its public mission by 
 ---
 
    
-
-
-
-
-
-[![main e s f facebook page](/images/icons/facebook100.jpg)](http://www.facebook.com/sunyesf/)[![main e s f youtube channel](/images/icons/youtube100.png)](http://www.youtube.com/user/SUNYESFVIDEO)[![main e s f twitter page](/images/icons/twitter100.jpg)](http://www.twitter.com/sunyesf/)[![main e s f instagram page](/images/icons/instagram100.jpg)](https://www.instagram.com/suny.esf/)[![main e s f linked in site](/images/icons/linkedin100.jpg)](http://www.linkedin.com/groups?gid=1782788&trk=hb_side_g)[![e s f itunes U poscasts page](/images/icons/itunes100.jpg)](https://itunes.apple.com/us/artist/suny-esf/1280624555?mt=2)
-
-* [Employment](/hr/)
-* [ESF College Bookstore](/bookstore/)
-	+ [Textbooks](/students/books.htm)
-* [Site Index](/siteindex.htm)
-* [University Police](/univpolice/)
-* [Visit](/welcome/visits.htm)
-* [Accessibility](/web/accessibility/) — *ESF is committed to providing accessible online materials. If you have issues, contact [web@esf.edu](mailto:web@esf.edu) for a prompt solution.*
-
-
-
-  
-
-![e s f logo](/default/images/esflogo.png)
-[Apply](/admission.htm) | [Give](https://www.esf.edu/donate/) | [Partner](/ep/)
-
-   
-
-Improve
-
-
-Your World
-
-
-
-
-
-**ESF**  
-
- 1 Forestry Drive  
-
- Syracuse, NY 13210  
-
- 315-470-6500  
-
-[Privacy Policy](/privacy/) | [Information](/forms/adm/info.asp) | [Webmaster](mailto:web@esf.edu)[![SUNY Excelsior Scholarship information](/financialaid/images/excelsior-scholarship_graphic.jpg)](/financialaid/excelsior.htm) 
-
-
-A campus of the **State University of New York**  
-
- Copyright © 2020 
-
-
-
-
----
-
-   
-
-
-
-
-
 
 
 
@@ -229,19 +160,9 @@ WebPageLink – https://www.esf.edu/ide/
      [skip to main content](#crumb)
 
 
-[![e s f home link - e s f college of environmental science and forestry](/default/images/wordmarkplainfull5.png)](/)
 [![e s f home link - e s f college of environmental science and forestry](/default/images/wordmarkplain.png)](/)
 
 
-
-
-[SOCIAL](/social/)
-
-[LOG IN](/computing/)
-
-[APPLY](/admission.htm/)
-
-[GIVE](https://www.esf.edu/donate/) 
 
 
  
@@ -382,65 +303,6 @@ Statement used with permission: UW-Madison   ESF fulfills its public mission by 
 ---
 
    
-
-
-
-
-
-[![main e s f facebook page](/images/icons/facebook100.jpg)](http://www.facebook.com/sunyesf/)[![main e s f youtube channel](/images/icons/youtube100.png)](http://www.youtube.com/user/SUNYESFVIDEO)[![main e s f twitter page](/images/icons/twitter100.jpg)](http://www.twitter.com/sunyesf/)[![main e s f instagram page](/images/icons/instagram100.jpg)](https://www.instagram.com/suny.esf/)[![main e s f linked in site](/images/icons/linkedin100.jpg)](http://www.linkedin.com/groups?gid=1782788&trk=hb_side_g)[![e s f itunes U poscasts page](/images/icons/itunes100.jpg)](https://itunes.apple.com/us/artist/suny-esf/1280624555?mt=2)
-
-* [Employment](/hr/)
-* [ESF College Bookstore](/bookstore/)
-	+ [Textbooks](/students/books.htm)
-* [Site Index](/siteindex.htm)
-* [University Police](/univpolice/)
-* [Visit](/welcome/visits.htm)
-* [Accessibility](/web/accessibility/) — *ESF is committed to providing accessible online materials. If you have issues, contact [web@esf.edu](mailto:web@esf.edu) for a prompt solution.*
-
-
-
-  
-
-![e s f logo](/default/images/esflogo.png)
-[Apply](/admission.htm) | [Give](https://www.esf.edu/donate/) | [Partner](/ep/)
-
-   
-
-Improve
-
-
-Your World
-
-
-
-
-
-**ESF**  
-
- 1 Forestry Drive  
-
- Syracuse, NY 13210  
-
- 315-470-6500  
-
-[Privacy Policy](/privacy/) | [Information](/forms/adm/info.asp) | [Webmaster](mailto:web@esf.edu)[![SUNY Excelsior Scholarship information](/financialaid/images/excelsior-scholarship_graphic.jpg)](/financialaid/excelsior.htm) 
-
-
-A campus of the **State University of New York**  
-
- Copyright © 2020 
-
-
-
-
----
-
-   
-
-
-
-
-
 
 
 

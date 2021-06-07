@@ -11,16 +11,6 @@ WebPageLink – https://diversity.ucsb.edu/
 
 
 
-Home
-====
-
-
-
-
-
-
-
-
 
 
 
@@ -46,12 +36,9 @@ WebPageLink – https://regents.universityofcalifornia.edu/governance/policies/4
 
 
 
-[![UNIVERSITY OF CALIFORNIA](../../_files/images/uc-lockup.png)](http://www.universityofcalifornia.edu/)
-[Board of Regents](../../index.html)
 
+* [Home](../../index.html)
 
-
-search  submit search
 
 
 
@@ -64,7 +51,6 @@ Regents Policy 4400: Policy on University of California Diversity Statement
  Amended September 16, 2010*
 RECOMMENDED TO THE UNIVERSITY OF CALIFORNIA BY THE 
  ACADEMIC SENATE OF THE UNIVERSITY OF CALIFORNIA
- 
  
 
 
@@ -180,16 +166,6 @@ WebPageLink – https://diversity.ucsb.edu/
  
 
 
-
-
-
-
-
-
-
-
-Home
-====
 
 
 

@@ -10,34 +10,6 @@ WebPageLink – https://www.stonybrook.edu/diversity/
 
 
 
-[Skip Navigation](#main-site-content)
-
-
-
-Search Text
-
-
-
-
-
-
-
-
-Select Search Scope
-
-Search This Site
-
-Just This Site
-
-
-Search SBU Website
-
-SBU Website
-
-
-
-
-
 
 Search
 
@@ -155,10 +127,6 @@ This site –
 
 
 
-Events
--------
-
-
 
 
 
@@ -170,10 +138,6 @@ Events
 
 
 
-
-
-Latest News
-------------
 
 
 
@@ -188,10 +152,6 @@ Latest News
 
 
 
-
-
-Spotlight
-----------
 
 
 
@@ -336,13 +296,6 @@ The killing of George Floyd serves as another painful example of the systemic ra
 
 
 
-
-[Twitter](https://www.twitter.com/CDO_SBU "Check out our latest Tweets!")
-[instagram](https://www.instagram/CDO_SBU "Find us on Instagram!")
-[print](javascript:window.print() "Print this page")
-
-
-
 310 Administration
 Stony Brook University
 Stony Brook, NY 11794-0701
@@ -368,8 +321,7 @@ If you wish to submit a report of sex based discrimination or sexual misconduct,
 
 [Report an accessibility barrier](https://docs.google.com/forms/d/e/1FAIpQLScW_Uc4kfzvlKlgwoJCHSJ2EG_6bd-LjcHowxnNGKV0309uxg/viewform?gxids=7628 )
  
-[©
- Admin Login](http://a.cms.omniupdate.com/10?skin=oucampus&account=suny-stonybrook&site=sbcms&action=de&path=/cdo/index.pcf)
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=suny-stonybrook&site=sbcms&action=de&path=/cdo/index.pcf)
 2020
 [Stony Brook University](https://www.stonybrook.edu/)
 
@@ -386,34 +338,6 @@ WebPageLink – https://www.stonybrook.edu/commcms/diversity/mission.php
 
 
 
-
-
-
-
-
-[Skip Navigation](#main-site-content)
-
-
-
-Search Text
-
-
-
-
-
-
-
-
-Select Search Scope
-
-Search This Site
-
-Just This Site
-
-
-Search SBU Website
-
-SBU Website
 
 
 
@@ -486,11 +410,6 @@ Stony Brook University has been very successful in creating communities, aided b
 
 
 
-
-[print](javascript:window.print() "Print this page")
-
-
-
 Office of the Provost
 Administration 407
 Stony Brook, NY 11794
@@ -498,8 +417,7 @@ Stony Brook, NY 11794
 
 [Report an accessibility barrier](https://docs.google.com/forms/d/e/1FAIpQLScW_Uc4kfzvlKlgwoJCHSJ2EG_6bd-LjcHowxnNGKV0309uxg/viewform?gxids=7628 )
  
-[©
- Admin Login](http://a.cms.omniupdate.com/10?skin=oucampus&account=suny-stonybrook&site=sbcms&action=de&path=/diversity/mission.pcf)
+[©](http://a.cms.omniupdate.com/10?skin=oucampus&account=suny-stonybrook&site=sbcms&action=de&path=/diversity/mission.pcf)
 2018
 [Stony Brook University](http://www.stonybrook.edu/)
 

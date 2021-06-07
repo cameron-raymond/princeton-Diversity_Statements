@@ -4,8 +4,6 @@ WebPageLink – https://www.widener.edu/student-experience/vibrant-community/div
 
 
 
-[Skip to main content](#main-content) 
-
 
 
 
@@ -17,11 +15,6 @@ WebPageLink – https://www.widener.edu/student-experience/vibrant-community/div
 
 
 
-
-
-
-[Skip to main site navigation](#main-menu)
-[Skip to main content](#main-content)
 
 
 
@@ -52,28 +45,6 @@ We take great pride in being a welcoming, diverse, and inclusive community that 
 
 
 
-
-
-
-
-
-
-
-
-We’re. All. Widener.
---------------------
-
-
-That’s not just a saying here; it’s a way of life. It represents the culture of our university - a powerful call for respect, mutual understanding, and unity.
-
-
-Here you'll be embraced and supported by a welcoming and inclusive community regardless of your race, ethnicity, national origin, gender and sexual identity, socioeconomic status, ability, religion, political affiliation, among other things.
-
-
-You'll join a community of students and scholars who hail from across the country and around the world. Our community is woven together by diverse backgrounds, life experiences, and perspectives, and our classrooms, residence halls, and social spaces are enriched by this variety.
-
-
-You'll interact with people and engage in the kinds of transformational moments that broaden your own worldview and prepare you for the world and workforce you're about to enter.
 
 
 
@@ -403,7 +374,7 @@ Upcoming Events
 
 
 
-![First Quarter Moon](data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%2F%3E)
+![Pride Mascots Events](data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%2F%3E)
 
 
 
@@ -411,7 +382,7 @@ Upcoming Events
 
 
 ### 
-Spring Stargazing via Zoom!
+Transfer Student Virtual Information Session
 
 
 
@@ -419,7 +390,7 @@ Spring Stargazing via Zoom!
 
 
 
-04
+10
 Jun
 
 
@@ -428,18 +399,17 @@ Jun
 
 
 
-8:00pm
-
- - 9:00pm
-
+4:00pm
+ - 5:00pm
 
 
 
- Widener Observatory - Kirkbride Hall
+
+ Zoom
  
 
 
-Enjoy the wonders and majesty of the summer sky! Join Professor Harry Augensen for a night of virtual stargazing via Zoom from the comfort of your own home. No registration is required.
+Join us to learn about the wonderful opportunities that Widener University offers, the application and admission process. Now is the time to submit your Fall 2021 application.
 
 
 
@@ -463,22 +433,6 @@ Jun
 
 ### 
 Virtual Walk-in Tuesdays for Transfer Students
-
-
-
-
-
-
-
-
-
-10
-Jun
-
-
-
-### 
-Transfer Student Virtual Information Session
 
 
 
@@ -633,6 +587,22 @@ APA Citation Style: What's New in the 7th Edition
 
 
 23
+Jun
+
+
+
+### 
+Pride Experience 1: Summer Registration
+
+
+
+
+
+
+
+
+
+24
 Jun
 
 
@@ -1003,8 +973,6 @@ WebPageLink – https://www.widener.edu/student-experience/vibrant-community/div
 
 
 
-[Skip to main content](#main-content) 
-
 
 
 
@@ -1016,11 +984,6 @@ WebPageLink – https://www.widener.edu/student-experience/vibrant-community/div
 
 
 
-
-
-
-[Skip to main site navigation](#main-menu)
-[Skip to main content](#main-content)
 
 
 
@@ -1051,28 +1014,6 @@ We take great pride in being a welcoming, diverse, and inclusive community that 
 
 
 
-
-
-
-
-
-
-
-
-We’re. All. Widener.
---------------------
-
-
-That’s not just a saying here; it’s a way of life. It represents the culture of our university - a powerful call for respect, mutual understanding, and unity.
-
-
-Here you'll be embraced and supported by a welcoming and inclusive community regardless of your race, ethnicity, national origin, gender and sexual identity, socioeconomic status, ability, religion, political affiliation, among other things.
-
-
-You'll join a community of students and scholars who hail from across the country and around the world. Our community is woven together by diverse backgrounds, life experiences, and perspectives, and our classrooms, residence halls, and social spaces are enriched by this variety.
-
-
-You'll interact with people and engage in the kinds of transformational moments that broaden your own worldview and prepare you for the world and workforce you're about to enter.
 
 
 
@@ -1402,7 +1343,7 @@ Upcoming Events
 
 
 
-![First Quarter Moon](data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%2F%3E)
+![Pride Mascots Events](data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 200'%2F%3E)
 
 
 
@@ -1410,7 +1351,7 @@ Upcoming Events
 
 
 ### 
-Spring Stargazing via Zoom!
+Transfer Student Virtual Information Session
 
 
 
@@ -1418,7 +1359,7 @@ Spring Stargazing via Zoom!
 
 
 
-04
+10
 Jun
 
 
@@ -1427,18 +1368,17 @@ Jun
 
 
 
-8:00pm
-
- - 9:00pm
-
+4:00pm
+ - 5:00pm
 
 
 
- Widener Observatory - Kirkbride Hall
+
+ Zoom
  
 
 
-Enjoy the wonders and majesty of the summer sky! Join Professor Harry Augensen for a night of virtual stargazing via Zoom from the comfort of your own home. No registration is required.
+Join us to learn about the wonderful opportunities that Widener University offers, the application and admission process. Now is the time to submit your Fall 2021 application.
 
 
 
@@ -1462,22 +1402,6 @@ Jun
 
 ### 
 Virtual Walk-in Tuesdays for Transfer Students
-
-
-
-
-
-
-
-
-
-10
-Jun
-
-
-
-### 
-Transfer Student Virtual Information Session
 
 
 
@@ -1632,6 +1556,22 @@ APA Citation Style: What's New in the 7th Edition
 
 
 23
+Jun
+
+
+
+### 
+Pride Experience 1: Summer Registration
+
+
+
+
+
+
+
+
+
+24
 Jun
 
 

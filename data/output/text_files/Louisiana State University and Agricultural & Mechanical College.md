@@ -2,10 +2,6 @@ WebPageLink – https://www.lsu.edu/diversity/about_us/mission_vision.php
 
  
 
-tag manager container
-
-
-
 
 
 
@@ -130,9 +126,6 @@ The Office of Diversity, Equity & Inclusion’s 2020-22 Diversity & Inclusion Ro
 
 
 
-
-
-[LSU](/index.php "Homepage")
 
 
 
@@ -153,10 +146,6 @@ WebPageLink – https://www.lsu.edu/diversity/about_us/mission_vision.php
 
  
 
-tag manager container
-
-
-
 
 
 
@@ -281,9 +270,6 @@ The Office of Diversity, Equity & Inclusion’s 2020-22 Diversity & Inclusion Ro
 
 
 
-
-
-[LSU](/index.php "Homepage")
 
 
 

@@ -34,36 +34,6 @@ Diversity and Inclusion
 
 
 
-Progress Updates
-
-
-###  Diversity, Equity, and Inclusion Initiatives
-
-
-
-Our Diversity, Equity, and Inclusion Action Plan aims to move us ever closer toward a fully inclusive, just, and equitable Clark.
-
-
-
-[Learn More](https://www.clarku.edu/diversity-equity-inclusion-action-plan/) 
-
-
-
-### Student Groups
-
-
-
-Students can choose from a variety of campus community organizations focused on social, cultural, and ethnic interests and identities. Several community groups are based out of the Multicultural and First-Generation Student Support (MFGSS) Office.[Student Clubs](https://www.clarku.edu/life-at-clark/student-clubs-and-organizations/)
-
-
-
-[Learn More about MFGSS-Based Community Groups](https://www.clarku.edu/offices/multicultural/community-groups/) 
-
-
-
-
-
-
 ![diverse group of woman](https://s28151.pcdn.co/wp-content/uploads/2020/08/diversity-and-inclusion.jpg)
 
 
@@ -207,8 +177,6 @@ Copyright © 2021 Clark University
 
 
 
-We use cookies on our website to offer a better browsing experience, analyze web traffic and personalize content. By using our website, you agree to the use of cookies as described in our [Privacy Policy](//www.clarku.edu/privacy).[Accept and Continue](#)
-
 
 
 
@@ -227,6 +195,17 @@ For updates about COVID-19 at Clark, please visit the [Healthy Clark Dashboard](
 
 
 Close Emergency Notification
+
+
+
+
+
+
+
+
+
+
+![clarkforwrd pathways to inclusive excellence log](https://s28151.pcdn.co/offices/diversity-inclusion/wp-content/themes/clarku/assets/img/placeholder.png)
 
 
 
@@ -480,12 +459,10 @@ Contact Information
 
 Office Location
 * 
- 
  Dana Commons  
 
 1st floor, Suite 2
 * 
- 
  1-508-793-7350
 * 
 [odi[at]clarku[dot]edu](mailto:odi[at]clarku[dot]edu)

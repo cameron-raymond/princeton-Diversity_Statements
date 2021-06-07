@@ -3,7 +3,7 @@ WebPageLink – https://www.esf.edu/ide/
      [skip to main content](#crumb)
 
 
-[![e s f home link - e s f college of environmental science and forestry](/default/images/wordmarkplain.png)](/)
+
 
 
 
@@ -11,14 +11,14 @@ WebPageLink – https://www.esf.edu/ide/
  
 
 
-  ![overlapping hands of different colors](/images/wash/ide.jpg)    Inclusion | Diversity | Equity
+      Inclusion | Diversity | Equity
 ==============================
 
        
 
 
 
-![](/default/images/menuiconwhite.png)
+
 
 
   * [ESF Home](/)
@@ -139,9 +139,7 @@ Statement used with permission: UW-Madison   ESF fulfills its public mission by 
 
  [PRODIG grant application](/ide/documents/2019/PRODiG 2019.pdf) was submitted to SUNY System, July 2019. The suggestions made throughout, dependent upon the funding received November, 2019, may or may not be actionable.
 
-    ![students at graduation](/ide/images/grads.jpg)
-
-      
+          
 
 ---
 
@@ -160,7 +158,7 @@ WebPageLink – https://www.esf.edu/ide/
      [skip to main content](#crumb)
 
 
-[![e s f home link - e s f college of environmental science and forestry](/default/images/wordmarkplain.png)](/)
+
 
 
 
@@ -168,14 +166,14 @@ WebPageLink – https://www.esf.edu/ide/
  
 
 
-  ![overlapping hands of different colors](/images/wash/ide.jpg)    Inclusion | Diversity | Equity
+      Inclusion | Diversity | Equity
 ==============================
 
        
 
 
 
-![](/default/images/menuiconwhite.png)
+
 
 
   * [ESF Home](/)
@@ -296,9 +294,7 @@ Statement used with permission: UW-Madison   ESF fulfills its public mission by 
 
  [PRODIG grant application](/ide/documents/2019/PRODiG 2019.pdf) was submitted to SUNY System, July 2019. The suggestions made throughout, dependent upon the funding received November, 2019, may or may not be actionable.
 
-    ![students at graduation](/ide/images/grads.jpg)
-
-      
+          
 
 ---
 

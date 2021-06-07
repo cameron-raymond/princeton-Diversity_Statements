@@ -159,7 +159,7 @@ This site –
 
 
 
-[![rhetcomp blog](/commcms/cdo/images/rhetcomp-flyer-11-20.jpg)](/commcms/cdo/images/rhetcomp-flyer-11-20.jpg)RhetComp, a student-led blog sponsored by the Stony Brook University Program in Writing
+RhetComp, a student-led blog sponsored by the Stony Brook University Program in Writing
  and Rhetoric, has put out a call for submissions from any genre and on any topic.
  Spotlight topics include Narratives of COVID-19, Black Lives Matter and 2020 Graduation
  and Beyond.
@@ -424,6 +424,6 @@ Stony Brook, NY 11794
 
 
 
-[![Login to Edit](//www.stonybrook.edu/commcms/outemplates/dired.gif)](http://a.cms.omniupdate.com/10?skin=oucampus&account=suny-stonybrook&site=sbcms&action=de&path=/diversity/mission.pcf) 
+ 
 ** **
 

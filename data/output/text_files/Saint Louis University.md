@@ -26,7 +26,7 @@ Here at SLU, we’re committed to diversity, equity and inclusion as values root
 
 
 
-![Dr. Jonathan Smith leads a candlelight vigil](/about/key-facts/diversity/img/diversity_inclusion-min.jpg)
+
 Faith fuels our commitment to diversity, social justice and solidarity with the St.
  Louis community. 
  
@@ -86,7 +86,7 @@ Here at SLU, we’re committed to diversity, equity and inclusion as values root
 
 
 
-![Dr. Jonathan Smith leads a candlelight vigil](/about/key-facts/diversity/img/diversity_inclusion-min.jpg)
+
 Faith fuels our commitment to diversity, social justice and solidarity with the St.
  Louis community. 
  

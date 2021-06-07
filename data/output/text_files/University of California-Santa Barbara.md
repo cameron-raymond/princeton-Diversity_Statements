@@ -149,37 +149,7 @@ Because the core mission of the University of California
 
 
 
-[![facebook icon](../../_files/images/facebook.png)](https://www.facebook.com/universityofcalifornia)  [![twitter icon](../../_files/images/twitter.png)](https://twitter.com/UC_Newsroom)
-
-
-
-
-
-
-
-
- 
-** **
-
-WebPageLink – https://diversity.ucsb.edu/ 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 
 

@@ -181,3 +181,313 @@ Copyright © 2021 Clark University
  
 ** **
 
+WebPageLink – https://www.clarku.edu/offices/diversity-inclusion/ 
+
+ 
+
+[Skip to content](#content-hero-intro)
+
+
+
+For updates about COVID-19 at Clark, please visit the [Healthy Clark Dashboard](https://www.clarku.edu/healthy-clark-dashboard).
+
+
+Close Emergency Notification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clark is committed to ensuring that our classrooms, offices and common spaces are welcoming to all and that everyone who comes to campus feels respected and valued.
+
+
+Our Office of Diversity and Inclusion takes a broad view of the talents, perspectives, and contributions of all members of the community, and we recognize the richness of humanity reflected in our students, faculty and staff. At Clark we engage in civil, constructive discourse to create a climate of acceptance, one where we understand that our differences, in concert with our commonalities, are the cornerstone for a stronger, more inclusive university.
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion Programs
+--------------------------------
+
+ The ODI is committed to both creating structural change and working with campus partners to integrate diversity and inclusion work in the mandate of all institutions on campus so that principles of diversity and equity are diffused throughout the university structure.
+
+
+ 
+[Learn More](https://www.clarku.edu/offices/diversity-inclusion/programs/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+University Diversity Action Council
+-----------------------------------
+
+ Appointed annually by the president of the University, the University Diversity Action Council (UDAC) works collaboratively and in cooperation with the Office of Diversity and Inclusion.
+
+
+ 
+[Learn More](https://www.clarku.edu/diversity-equity-inclusion-action-plan/university-diversity-action-council/) 
+
+
+
+
+
+
+
+
+
+
+Statements and News
+-------------------
+
+
+
+
+
+
+
+
+
+
+
+
+### 
+ Higher Education Excellence in Diversity Award 2018
+
+
+Recognizing outstanding efforts in the area of diversity and inclusion.
+
+
+
+
+
+[Learn More](https://clarknow.clarku.edu/2018/09/14/clark-earns-national-recognition-for-diversity-and-inclusion-efforts/) 
+
+
+
+
+
+
+
+
+### 
+ Higher Education Excellence in Diversity Award 2018
+
+
+Recognizing outstanding efforts in the area of diversity and inclusion.
+
+
+
+
+
+
+[Learn More](https://clarknow.clarku.edu/2018/09/14/clark-earns-national-recognition-for-diversity-and-inclusion-efforts/) 
+
+
+
+Close Modal
+
+
+### 
+ Higher Education Excellence in Diversity Award 2018
+
+
+
+Recognizing outstanding efforts in the area of diversity and inclusion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 
+ Sheree Ohen co-authors whitepaper on strategies for diversity in higher ed
+
+
+A new paper published by Clark’s chief diversity officer offers guidance to campus leaders on handing difficult inclusion, social, and cultural issues.
+
+
+
+
+
+[Learn More](https://clarknow.clarku.edu/2019/10/30/sheree-ohen-co-authors-whitepaper-on-strategies-for-diversity-in-higher-ed/) 
+
+
+
+
+
+
+
+
+### 
+ Sheree Ohen co-authors whitepaper on strategies for diversity in higher ed
+
+
+A new paper published by Clark’s chief diversity officer offers guidance to campus leaders on handing difficult inclusion, social, and cultural issues.
+
+
+
+
+
+
+[Learn More](https://clarknow.clarku.edu/2019/10/30/sheree-ohen-co-authors-whitepaper-on-strategies-for-diversity-in-higher-ed/) 
+
+
+
+Close Modal
+
+
+### 
+ Sheree Ohen co-authors whitepaper on strategies for diversity in higher ed
+
+
+
+A new paper published by Clark’s chief diversity officer offers guidance to campus leaders on handing difficult inclusion, social, and cultural issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 
+ Statement: ‘This is a call for genuine systemic change’
+
+
+It has been absolutely heartbreaking and appalling to see the continued injustice experienced within the black community and other communities of color. …
+
+
+
+
+
+[Read Full Statement](https://www.clarku.edu/offices/diversity-inclusion/statement-this-is-a-call-for-genuine-systemic-change/) 
+
+
+
+
+
+
+
+
+### 
+ Statement: ‘This is a call for genuine systemic change’
+
+
+It has been absolutely heartbreaking and appalling to see the continued injustice experienced within the black community and other communities of color. …
+
+
+
+
+
+
+[Read Full Statement](https://www.clarku.edu/offices/diversity-inclusion/statement-this-is-a-call-for-genuine-systemic-change/) 
+
+
+
+Close Modal
+
+
+### 
+ Statement: ‘This is a call for genuine systemic change’
+
+
+
+It has been absolutely heartbreaking and appalling to see the continued injustice experienced within the black community and other communities of color. …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Information
+### Office of Diversity and Inclusion
+
+
+
+
+Office Location
+* 
+ Dana Commons  
+
+1st floor, Suite 2
+* 
+ 1-508-793-7350
+* 
+[odi[at]clarku[dot]edu](mailto:odi[at]clarku[dot]edu)
+
+
+
+
+
+
+
+
+
+
+Copyright © 2021 Clark University
+[Public Information](https://www.clarku.edu/about/public-information/)
+|
+[Privacy Policy](https://web.clarku.edu/policies/detailpolicy.cfm?pid=92)
+|
+[Accessibility](https://www.clarku.edu/website-accessibility-statement/)
+
+
+
+
+
+
+
+
+
+ 
+** **
+

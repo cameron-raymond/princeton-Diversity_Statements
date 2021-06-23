@@ -2,7 +2,7 @@ WebPageLink – https://www.clarku.edu/who-we-are/diversity-and-inclusion/
 
  
 
-For updates about COVID-19 at Clark, please visit the [Healthy Clark Dashboard](https://www.clarku.edu/healthy-clark-dashboard).
+Vaccinations are required to attend Clark in the fall. [Upload a copy of your vaccination card now](https://apps.clarku.edu/covid-vaccine/).
 
 Close Emergency Notification
 
@@ -69,6 +69,8 @@ Copyright © 2021 Clark University
 |
 [Accessibility](https://www.clarku.edu/website-accessibility-statement/)
 
+We use cookies on our website to offer a better browsing experience, analyze web traffic and personalize content. By using our website, you agree to the use of cookies as described in our [Privacy Policy](//www.clarku.edu/privacy).[Accept and Continue](#)
+
  
 ** **
 
@@ -76,7 +78,7 @@ WebPageLink – https://www.clarku.edu/offices/diversity-inclusion/
 
  
 
-For updates about COVID-19 at Clark, please visit the [Healthy Clark Dashboard](https://www.clarku.edu/healthy-clark-dashboard).
+Vaccinations are required to attend Clark in the fall. [Upload a copy of your vaccination card now](https://apps.clarku.edu/covid-vaccine/).
 
 Close Emergency Notification
 
@@ -97,68 +99,20 @@ University Diversity Action Council
 Statements and News
 -------------------
 
-### 
- Higher Education Excellence in Diversity Award 2018
+[### Clark Celebrates Pride Month](https://www.clarku.edu/offices/diversity-inclusion/lgbtqia-resources/) 
+As part of Pride Month, we invite you to check out our LGBTQIA+ history, information, and resources.
 
-Recognizing outstanding efforts in the area of diversity and inclusion.
+[Learn More](https://www.clarku.edu/offices/diversity-inclusion/lgbtqia-resources/) 
 
-[Learn More](https://clarknow.clarku.edu/2018/09/14/clark-earns-national-recognition-for-diversity-and-inclusion-efforts/) 
+[### Juneteenth: ‘This is American History’](https://clarknow.clarku.edu/2021/06/18/this-is-american-history-clark-honors-juneteenth-with-discussion-of-1921-race-massacre/) 
+The Office of Diversity and Inclusion and the Africana Studies program hosted a discussion of the film “Blood on Black Wall Street.”
 
-### 
- Higher Education Excellence in Diversity Award 2018
+[Learn More](https://clarknow.clarku.edu/2021/06/18/this-is-american-history-clark-honors-juneteenth-with-discussion-of-1921-race-massacre/) 
 
-Recognizing outstanding efforts in the area of diversity and inclusion.
+[### Diversity, Equity, and Inclusion Initiatives](https://www.clarku.edu/diversity-equity-inclusion-initiatives/) 
+To build a more equitable Clark University, we know we have much work to do to set the stage for a better future.
 
-[Learn More](https://clarknow.clarku.edu/2018/09/14/clark-earns-national-recognition-for-diversity-and-inclusion-efforts/) 
-
-Close Modal
-
-### 
- Higher Education Excellence in Diversity Award 2018
-
-Recognizing outstanding efforts in the area of diversity and inclusion.
-
-### 
- Sheree Ohen co-authors whitepaper on strategies for diversity in higher ed
-
-A new paper published by Clark’s chief diversity officer offers guidance to campus leaders on handing difficult inclusion, social, and cultural issues.
-
-[Learn More](https://clarknow.clarku.edu/2019/10/30/sheree-ohen-co-authors-whitepaper-on-strategies-for-diversity-in-higher-ed/) 
-
-### 
- Sheree Ohen co-authors whitepaper on strategies for diversity in higher ed
-
-A new paper published by Clark’s chief diversity officer offers guidance to campus leaders on handing difficult inclusion, social, and cultural issues.
-
-[Learn More](https://clarknow.clarku.edu/2019/10/30/sheree-ohen-co-authors-whitepaper-on-strategies-for-diversity-in-higher-ed/) 
-
-Close Modal
-
-### 
- Sheree Ohen co-authors whitepaper on strategies for diversity in higher ed
-
-A new paper published by Clark’s chief diversity officer offers guidance to campus leaders on handing difficult inclusion, social, and cultural issues.
-
-### 
- Statement: ‘This is a call for genuine systemic change’
-
-It has been absolutely heartbreaking and appalling to see the continued injustice experienced within the black community and other communities of color. …
-
-[Read Full Statement](https://www.clarku.edu/offices/diversity-inclusion/statement-this-is-a-call-for-genuine-systemic-change/) 
-
-### 
- Statement: ‘This is a call for genuine systemic change’
-
-It has been absolutely heartbreaking and appalling to see the continued injustice experienced within the black community and other communities of color. …
-
-[Read Full Statement](https://www.clarku.edu/offices/diversity-inclusion/statement-this-is-a-call-for-genuine-systemic-change/) 
-
-Close Modal
-
-### 
- Statement: ‘This is a call for genuine systemic change’
-
-It has been absolutely heartbreaking and appalling to see the continued injustice experienced within the black community and other communities of color. …
+[Learn More](https://www.clarku.edu/diversity-equity-inclusion-initiatives/) 
 
 Contact Information
 ### Office of Diversity and Inclusion

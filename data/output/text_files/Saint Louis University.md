@@ -31,6 +31,13 @@ DuBourg Hall, Room 201
 [diversity-community-engagement@slu.edu](mailto:diversity-community-engagement@slu.edu)
 
 RECENT MESSAGES
+**[Juneteenth: A Moment to Reflect](/about/key-facts/diversity/messages/juneteenth-a-moment-to-reflect.php "Link to a message from the Office of Diversity and Community Engagement encouraging people to reflect on Juneteenth.")**  
+We are called to remember –– and to recommit ourselves to –– the ongoing pursuit of
+ equity and racial justice.
+
+**[SLU to Recognize Juneteenth as a University Holiday](/about/leadership/messages/slu-to-recognize-juneteenth-as-university-holiday.php "A link to a message from the president and other leaders announcing that SLU will recognize Juneteenth as a University holiday. ")**The decision helps demonstrate SLU's commitment to fostering a diverse and inclusive
+ institution.
+
 **[Update from the Vice President for Diversity and Community Engagement](/about/key-facts/diversity/messages/april-2021-update-vp-for-diversity-and-community-engagement.php "Update from the Vice President for Diversity and Community Engagement")**A committee was assembled last fall in response to various sets of racial equity demands
  and concerns. 
 
@@ -50,6 +57,8 @@ Progress continues to be made, including enhanced scholarships for students of c
 [**Response to Rescission of DACA Program**](/about/leadership/messages/daca.php)  
 SLU’s president expresses support for DACA students and joins the ranks of those urging
  Congress to protect the Dreamers.
+
+[©](https://a.cms.omniupdate.com/11/?skin=slu&account=slu&site=www&action=de&path=/about/key-facts/diversity/index.pcf)
 
  
 ** **

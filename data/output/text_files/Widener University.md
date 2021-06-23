@@ -2,6 +2,8 @@ WebPageLink – https://www.widener.edu/student-experience/vibrant-community/div
 
  
 
+[Skip to main content](#main-content) 
+
 [Read about our COVID-19 response on campus](https://www.widener.edu/coronavirus "Coronavirus Information"). [See the dashboard for positive case information](https://www.widener.edu/coronavirus/positive-covid-19-cases-by-campus "positive cases by campus").
 
 Diversity & Inclusion
@@ -108,54 +110,18 @@ Upcoming Events
 ---------------
 
 ### 
-Pride Experience 1: Summer Registration
-
-16
-Jun
-
-1:00pm
-
- - 3:30pm
-
- Virtual Orientation Experience
-
-*Registration is closed for this date.
-
-16
-Jun
-
-### 
-Parent & Family Orientation
-
-17
-Jun
-
-### 
-Pride Experience 1: Summer Registration
-
-22
-Jun
-
-### 
-Pride Experience 1: Summer Registration
-
-22
-Jun
-
-### 
-Virtual Walk-in Tuesdays for Transfer Students
-
-22
-Jun
-
-### 
-Parent & Family Orientation
+APA Citation Style: What's New in the 7th Edition
 
 23
 Jun
 
-### 
-APA Citation Style: What's New in the 7th Edition
+12:00pm
+
+ - 1:00pm
+
+ Online
+
+Need help with the APA Citation style? The librarians at the Wolfgram library are here to help. This event will now be offered in a VIRTUAL FORMAT due to the coronavirus measures our campus is taking to keep our community healthy and safe.
 
 23
 Jun
@@ -179,19 +145,55 @@ Pride Experience 1: Summer Registration
 Jun
 
 ### 
-Olympia - A Conversation and Q&A with Director Harry Mavromichalis
+Graduate Clinical Institute Programs Information Session
 
 28
 Jun
 
 ### 
-Graduate Clinical Institute Programs Information Session
+Olympia - A Conversation and Q&A with Director Harry Mavromichalis
 
 29
 Jun
 
 ### 
 Virtual Walk-in Tuesdays for Transfer Students
+
+12
+Jul
+
+### 
+Next Generation Scientists Virtual Summer Mini-camp (7/12-7/16)
+
+12
+Jul
+
+### 
+Summer Days for Incoming Students
+
+13
+Jul
+
+### 
+Adult Gerontology CNS (MSN) Information Session
+
+15
+Jul
+
+### 
+Summer Days for Incoming Students
+
+19
+Jul
+
+### 
+Summer Days for Incoming Students
+
+21
+Jul
+
+### 
+APA Citation Style: What's New in the 7th Edition
 
 Keep Exploring
 --------------

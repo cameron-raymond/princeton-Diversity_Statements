@@ -83,6 +83,8 @@ The Office of Diversity, Equity & Inclusion’s 2020-22 Diversity & Inclusion Ro
 
 [Download Roadmap](/together/docs/roadmap-to-diversity.pdf)
 
+[©](https://a.cms.omniupdate.com/11/?skin=oucampus&account=lsu&site=www&action=de&path=/diversity/about_us/mission_vision.pcf)
+
  
 ** **
 

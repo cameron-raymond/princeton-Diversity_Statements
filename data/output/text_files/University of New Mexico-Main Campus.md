@@ -1,7 +1,11 @@
 WebPageLink – https://diverse.unm.edu/about/mission.html 
 
  
-[Skip to main content](#main)Mission, Vision, Diversity Values Statement
+[Skip to main content](#main)* [UNM](https://www.unm.edu)
+* [Home](../index.html)
+* [About](index.html)
+* Mission, Vision, Diversity Values Statement
+Mission, Vision, Diversity Values Statement
 ===========================================
 
 Mission Statement

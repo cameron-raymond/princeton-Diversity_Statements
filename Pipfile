@@ -12,6 +12,9 @@ requests = "*"
 ipykernel = "*"
 selenium = "*"
 markdownify = "*"
+xlrd = "*"
+openpyxl = "*"
+tqdm = "*"
 
 [dev-packages]
 

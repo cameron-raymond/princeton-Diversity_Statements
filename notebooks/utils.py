@@ -96,4 +96,6 @@ def scrape_webpage(url,uni,url_type="Diversity Page",out_folder="output",save_im
     with open(f"../data/{out_folder}/text_files/{pretty_uni}.md", "a", encoding='utf-8') as file:
         file.write(str(overview))
     if sleep: time.sleep(sleep)
-    return re.sub(r'\n\s*\n','\n\n',soup.get_text())
+    text = re.sub(r'\n\s*\n','\n\n',soup.get_text())
+    text = re.sub(r'\W+', '', text)
+    return text

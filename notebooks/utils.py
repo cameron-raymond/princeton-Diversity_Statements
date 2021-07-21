@@ -83,7 +83,11 @@ def save_images(url,uni,soup,url_type="Diversity Page",out_folder="output",v=Fal
     
 def scrape_webpage(url,uni,url_type="Diversity Page",out_folder="output",save_images=True,v=False,sleep=0):
     if v: print(uni,url)
-    soup = clean_webpage(url)
+    try:
+        soup = clean_webpage(url)
+    except Exception as e:
+        print(uni,e)
+        return None
     if save_images: save_images(url,uni,soup,url_type,out_folder)
     for script in soup(["img"]):
         script.decompose()    # rip it out
